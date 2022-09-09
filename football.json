@@ -2,300 +2,271 @@
 	"hits": [
 
 
+{
 
 
-
+			"user": "Rayo Vallecano vs Valencia SD",
+			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"type": "⚽️ ",
+			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+	
+},
 		{
 
 
-			"user": "Zürich vs Arsenal SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+			"user": "Rayo Vallecano vs Valencia HD",
+			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"type": "⚽️ ",
+			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+	
+},
+
+
+{
+
+
+			"user": "Napoli vs Spezia HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Napoli vs Spezia HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Napoli vs Spezia HD3",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			
+		
+		
+		{
+
+
+			"user": "Bayern München vs Stuttgart SD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 
-			"user": "Zürich vs Arsenal HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+			"user": "Bayern München vs Stuttgart HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 
-			"user": "Zürich vs Arsenal HD2 (English)",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-		{
-
-
-			"user": "PSV vs Bodø / Glimt HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+			"user": "RB Leipzig vs Borussia Dortmund HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 
-			"user": "AEK Larnaca vs Rennes HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+			"user": "Hertha BSC vs Bayer Leverkusen HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 
-			"user": "Fenerbahçe vs Dynamo Kyiv HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+			"user": "Hoffenheim vs Mainz 05 HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 
-			"user": "Ludogorets vs Roma HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+			"user": "Eintracht Frankfurt vs Wolfsburg HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		
+		{
+
+
+			"user": "Espanyol vs Sevilla SD",
+			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"type": "⚽️ ",
+			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+	
+},
+		{
+
+
+			"user": "Espanyol vs Sevilla HD",
+			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"type": "⚽️ ",
+			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+	
+},
+		
+		
+		{
+
+
+			"user": "PSG vs Brest SD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 		{
 
 
-			"user": "HJK vs Real Betis HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		}, {
-
-
-			"user": "Malmö FF vs Sporting Braga HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-		{
-
-
-			"user": "Union Berlin vs Union Saint-Gilloise HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-		{
-
-
-			"user": "Ballkani vs CFR Cluj HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
+			"user": "PSG vs Brest HD1",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 		{
 
 
-			"user": "Fiorentina vs Rīgas FS HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
+			"user": "PSG vs Brest HD2",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		
+		
+		{
+
+
+			"user": "Internazionale vs Torino HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Internazionale vs Torino HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Internazionale vs Torino HD3",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		
+		{
+
+
+			"user": "Cádiz vs Barcelona SD",
+			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"type": "⚽️ ",
+			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+	
+},
+		{
+
+
+			"user": "Cádiz vs Barcelona HD",
+			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"type": "⚽️ ",
+			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+	
+},
+		
+		{
+
+
+			"user": "Schalke 04 vs Bochum HD1",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 
-			"user": "Villarreal vs Lech Poznań HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
+			"user": "Schalke 04 vs Bochum HD2",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		
+		{
+
+
+			"user": "Sampdoria vs Milan HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Sampdoria vs Milan HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Sampdoria vs Milan HD3",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		
+		{
+
+
+			"user": "Atlético Madrid vs Celta Vigo SD",
+			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"type": "⚽️ ",
+			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+	
+},
+		{
+
+
+			"user": "Atlético Madrid vs Celta Vigo HD",
+			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"type": "⚽️ ",
+			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+	
+},
+		
+		
+		{
+
+
+			"user": "Marseille vs Lille HD1",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 		{
 
 
-			"user": "Anderlecht vs Silkeborg HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
+			"user": "Marseille vs Lille HD2",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
-		{
-
-
-			"user": "Nice vs Köln HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Slovácko vs Partizan HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Austria Wien vs Hapoel Be'er Sheva HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Hearts vs İstanbul Başakşehir HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Real Sociedad SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Real Sociedad HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Real Sociedad HD2 (English)",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-
-			"user": "Lazio vs Feyenoord HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-
-			"user": "Nantes vs Olympiakos Piraeus HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-
-			"user": "Omonia Nicosia vs Sheriff HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-
-			"user": "Sturm Graz vs Midtjylland HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-
-			"user": "Freiburg vs Qarabağ HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-
-			"user": "Crvena Zvezda vs Monaco HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-
-			"user": "Ferencváros vs Trabzonspor HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-		{
-
-
-			"user": "West Ham United vs FCSB HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Vaduz vs Apollon HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Dnipro-1 vs AZ HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Molde vs Gent HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Shamrock Rovers vs Djurgården HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Sivasspor vs Slavia Praha HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Basel vs Pyunik HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
-		{
-
-
-			"user": "Slovan Bratislava vs Žalgiris HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Europa Conference League ⚽️ ",
-			"webFormatUrl": "https://pnggrid.com/wp-content/uploads/2021/05/Logo-UEFA-Europa-Conference-League.png"
-		},
+		
 		{
 
 			"user": "PTV SPORTS",
